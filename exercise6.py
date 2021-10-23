@@ -1,6 +1,7 @@
 import random
 life=5
 if __name__ == "__main__":
+    
     user_point=0
     computer_point=0
     i=10
